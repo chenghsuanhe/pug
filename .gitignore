@@ -39,5 +39,8 @@ ENV/
 env.bak/
 venv.bak/
 
+# PyQt
+ui.py
+
 # Visual Studio Code
 .vscode/
